@@ -1,1 +1,4 @@
-# RPi-reakcijski-cas
+# RPi
+
+Priprava za učno uro z RPi:
+Reakcijski čas
